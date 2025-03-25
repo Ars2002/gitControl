@@ -1,0 +1,4 @@
+Git is a distributed version control system used for tracking changes in source code.  
+It allows multiple developers to collaborate on a project efficiently.  
+Git provides features like branching, merging, and version history.  
+Popular platforms like GitHub and GitLab are built around Git.  
