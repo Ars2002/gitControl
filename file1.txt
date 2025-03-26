@@ -4,3 +4,4 @@ Git provides features like branching, merging, and version history.
 Popular platforms like GitHub and GitLab are built around Git.  
 
 This line added from first_branch.
+This line added from main branch
